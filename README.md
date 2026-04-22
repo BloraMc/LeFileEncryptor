@@ -14,3 +14,4 @@ Since LeFileEncryptor is based on Python, you can use it by running it from the 
 LeFileEncryptor has been made on Python 3.11, it may not work on other versions such as 3.9, or 3.14 !
 This data encrypting software LeFileEncryptor saves files in `.lefileencrypter` and needs to be decrypted with LeFileEncrypter
 Exemple : If you encrypt image.png, the encrypted file will be called image.png.lefileencrypter, and when decrypted will be back to image.png
+Compiled to portable executable with PyInstaller (may false flag antiviruses ... if so, run from source!)
